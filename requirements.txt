@@ -1,0 +1,5 @@
+mysql-connector == 2.2.9
+socket
+datetime
+pickle
+threading
